@@ -1,7 +1,7 @@
 export default {
     title: 'Payment SaaS Console',
-    copyright: "Copyright {year} CodePay",
-    colorPrimary: "#348B3C",
+    copyright: 'Copyright {year} CodePay',
+    colorPrimary: '#348B3C',
     token: {
         colorTextAppListIcon: '#ccc',
         colorTextAppListIconHover: '#e0e0e0',
@@ -25,5 +25,5 @@ export default {
             colorTextMenuSelected: '#348B3C',
             paddingBlockLayoutMenu: 8,
         },
-    }
-}
+    },
+};
